@@ -1,0 +1,104 @@
+{
+    "Class10": [
+        {
+            "Roll_No": 1,
+            "FName": "Santosh",
+            "LName": "Patil",
+            "Tel_No": "0227685674",
+            "DOB": "04/09/2007",
+            "DOA": "06/06/2012",
+            "Address": "Nerul",
+            "Pin_Code": "400706"
+        },
+		{
+            "Roll_No": 2,
+            "FName": "Vijay",
+            "LName": "Waykar",
+            "Tel_No": "0227688675",
+            "DOB": "09/04/2007",
+            "DOA": "06/06/2012",
+            "Address": "Mulund",
+            "Pin_Code": "400701"
+        },
+		{
+            "Roll_No": 3,
+            "FName": "Ravi",
+            "LName": "Pillai",
+            "Tel_No": "0227869345",
+            "DOB": "05/04/2006",
+            "DOA": "06/06/2012",
+            "Address": "Mahape",
+            "Pin_Code": "400705"
+        },
+		{
+            "Roll_No": 4,
+            "FName": "Rahul",
+            "LName": "Sonar",
+            "Tel_No": "0256934567",
+            "DOB": "12/06/2006",
+            "DOA": "06/06/2012",
+            "Address": "KoparKhairane",
+            "Pin_Code": "400709"
+        },
+		{
+            "Roll_No": 5,
+            "FName": "Sanjeev",
+            "LName": "Sonawane",
+            "Tel_No": "0227564893",
+            "DOB": "01/08/2007",
+            "DOA": "06/06/2012",
+            "Address": "Ghansoli",
+            "Pin_Code": "400701"
+        },
+		{
+            "Roll_No": 6,
+            "FName": "Himanshu",
+            "LName": "Jagtap",
+            "Tel_No": "0227898459",
+            "DOB": "04/09/2007",
+            "DOA": "06/06/2012",
+            "Address": "Dadar",
+            "Pin_Code": "400703"
+        },
+		{
+            "Roll_No": 7,
+            "FName": "Vedant",
+            "LName": "Singh",
+            "Tel_No": "0227895688",
+            "DOB": "10/05/2005",
+            "DOA": "06/06/2012",
+            "Address": "Vakola",
+            "Pin_Code": "4010458"
+        },
+		{
+            "Roll_No": 8,
+            "FName": "Prashant",
+            "LName": "Fernandis",
+            "Tel_No": "0227823456",
+            "DOB": "03/09/2007",
+            "DOA": "06/06/2012",
+            "Address": "Kamothe",
+            "Pin_Code": "400568"
+        },
+		{
+            "Roll_No": 9,
+            "FName": "Jyoti",
+            "LName": "Pawar",
+            "Tel_No": "0227806758",
+            "DOB": "07/09/2008",
+            "DOA": "06/06/2012",
+            "Address": "Rabale",
+            "Pin_Code": "400957"
+        },
+		{
+            "Roll_No": 10,
+            "FName": "Vaibhav",
+            "LName": "Jadhav",
+            "Tel_No": "0227123456",
+            "DOB": "09/03/2007",
+            "DOA": "06/06/2012",
+            "Address": "Thane",
+            "Pin_Code": "400295"
+        }
+    ]
+}

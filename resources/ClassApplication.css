@@ -1,0 +1,24 @@
+.headerStyle
+{
+padding-left:10px;
+padding-top:5px;
+font-weight:bold;color:white;
+background: #545454;
+border:1px;border-style:solid; border-color:#B5B8C8;
+}
+
+.bg_login
+{
+
+    background-image:url('./images/bg_login.jpg') ;
+    background-size:cover;
+
+}
+
+.bg_loginbox
+{
+
+    background-image:url('./images/bg_loginbox.jpg') ;
+    background-size:cover;
+
+}
